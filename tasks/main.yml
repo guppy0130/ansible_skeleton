@@ -1,0 +1,4 @@
+---
+- name: "example task"
+  debug:
+    msg: "hello world"
