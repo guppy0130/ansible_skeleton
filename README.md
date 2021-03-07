@@ -17,9 +17,9 @@ but you should quickly modify this if you intend to scale up role generation.
 
 [//]: # (Add any role-specific variables here, in the table)
 
-| Variable    | Description         | Default |
-| ----------- | ------------------- | ------- |
-| example_var | An example variable | false   |
+| Variable      | Description         | Default | Type |
+| ------------- | ------------------- | ------- | ---- |
+| `example_var` | An example variable | `false` | bool |
 
 ### Notes
 
